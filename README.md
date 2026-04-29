@@ -21,3 +21,6 @@ To identify malicious traffic and improve network security in EV environments.
 ## Architecture
 
 ![NIDS Architecture](nids-diagram.png)
+
+## Implementation
+Basic Random Forest model implemented using Python (see nids_model.py)
