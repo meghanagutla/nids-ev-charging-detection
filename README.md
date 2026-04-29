@@ -17,3 +17,7 @@ This project focuses on detecting DoS attacks in EV charging infrastructure usin
 
 ## Goal
 To identify malicious traffic and improve network security in EV environments.
+
+## Architecture
+
+![NIDS Architecture](nids-diagram.png)
